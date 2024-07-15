@@ -1,8 +1,10 @@
 # Artificial Neural Network (ANN)-Election Forecasting
 
-<img src="https://raw.githubusercontent.com/jennyiskezhen/ANN-example/main/image.png" width="300">
+<div align="center">
+<img src="https://raw.githubusercontent.com/jennyiskezhen/ANN-example/main/image.png" width="400">
+</div>
 
-In this example, I used ANN to forecast the binary voting results of the United State elections on the country level in 2016, which is public information. Economic and sociological factors were used as features to make the predictions on the voting results. 
+In this example, I used ANN to forecast the binary voting results of the United States elections on the county level in 2016, which is public information. Economic and sociological factors and the geographic structure of the counties were used as features to make the predictions on the voting results. Results of 1555 counties were predicted.
 
 I compared ANN to several other basic machine learning models including k-nearest neighbors (k-NN), linear discriminant analysis (LDA), and support vector machine (SVM) learning methods.
 
