@@ -1,6 +1,6 @@
 # Artificial Neural Network (ANN)-Election Forecasting
 
-![image.png; width="50";](https://raw.githubusercontent.com/jennyiskezhen/ANN-example/main/image.png)
+<img src="https://raw.githubusercontent.com/jennyiskezhen/ANN-example/main/image.png" width="300">
 
 In this example, I used ANN to forecast the binary voting results of the United State elections on the country level in 2016, which is public information. Economic and sociological factors were used as features to make the predictions on the voting results. 
 
